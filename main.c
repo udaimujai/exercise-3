@@ -5,7 +5,7 @@ int main(void)
 <<<<<<< HEAD
 
 =======
-		for(int i=1;i<16;i++)
+		for(int i=1;i<10;i++)
 	{
 		printf("%d " ,i);
 	}
